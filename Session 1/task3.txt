@@ -1,0 +1,4 @@
+Independent Deployment: We can update the payment service without changing the whole application.
+Easy Scaling: During a popular movie release, we can increase the booking service capacity to handle more users.
+Fault Isolation: If the payment service fails, users may still be able to browse movies.
+Easy Maintenance: Developers can update the notification service without changing other services.
